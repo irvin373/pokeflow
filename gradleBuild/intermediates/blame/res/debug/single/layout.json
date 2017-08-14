@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/irvin/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment.xml",
+        "source": "/home/irvin/tensorflow-for-poets-2/android/res/layout/camera_connection_fragment.xml"
+    },
+    {
+        "merged": "/home/irvin/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment_stylize.xml",
+        "source": "/home/irvin/tensorflow-for-poets-2/android/res/layout/camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "/home/irvin/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/home/irvin/tensorflow-for-poets-2/android/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/home/irvin/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment_tracking.xml",
+        "source": "/home/irvin/tensorflow-for-poets-2/android/res/layout/camera_connection_fragment_tracking.xml"
+    }
+]

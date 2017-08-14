@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/irvin/tensorflow-for-poets-2/android/gradleBuild/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/irvin/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d98e56cc8c632506bc2b072e460e2be678ed60c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irvin/tensorflow-for-poets-2/android/gradleBuild/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9d6d91efbecf6b1cf6bcf47751b4e2aaf63fee8">
+        <dex dex="/home/irvin/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_02e9b82095b18f266d88aa1ff1a742da08633b47/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/irvin/.android/build-cache/46f6cf3fcead9381eb456ef16859459928f1e79c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="547326950573bb73d6064506e003a201045b2bd7">
+        <dex dex="/home/irvin/tensorflow-for-poets-2/android/gradleBuild/intermediates/pre-dexed/debug/classes_2890a591723d676665721e52fbec49165e25be78.jar" />
+    </item>
+
+</items>
